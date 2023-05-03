@@ -1,1 +1,1 @@
-# basicautomations
+# Basic Automations
