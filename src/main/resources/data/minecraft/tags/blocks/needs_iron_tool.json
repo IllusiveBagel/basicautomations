@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "basicautomations:black_opal_block",
+        "basicautomations:black_opal_ore",
+        "basicautomations:deepslate_black_opal_ore",
+        "basicautomations:endstone_black_opal_ore",
+        "basicautomations:netherrack_black_opal_ore"
+    ]
+}
